@@ -3,4 +3,5 @@ asdfasdf
 asdflkajsd
 test
 
-
+test2
+실수로 add --all 한경우
